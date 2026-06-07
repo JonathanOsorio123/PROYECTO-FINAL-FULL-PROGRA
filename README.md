@@ -1,7 +1,7 @@
 Red Social Académica Universitaria
 Este proyecto implementa una simulación de red social académica universitaria en C++ y realiza un análisis comparativo de rendimiento (Benchmark) contra Java.
 
-El sistema contrasta el uso de estructuras dinámicas manuales basadas en punteros frente a las colecciones nativas integradas de un framework comercial.
+El sistema contrasta el uso de estructuras dinámicas manuales basadas en punteros frente a las colecciones nativas integradas de un framework comercial. 
 
 Estructura del Repositorio
 /proyecto-final
